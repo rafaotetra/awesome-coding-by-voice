@@ -8,14 +8,14 @@ If you're not inclined to make PRs you can tweet me at <a href="https://twitter.
 Table of Contents
 =================
 
-  * [Blogs and sites](#blogs)
+  * [Blogs](#blogs)
   * [Papers](#papers)
   * [Tools](#tools)
   * [Videos](#videos)
   * [APIs](#apis)
   * [Projects](#projects)
 
-## Blogs and sites
+## Blogs
 
   * [Hands-Free Coding](https://handsfreecoding.org/)
   * [Gaze-controlled keyboard](https://gaze-keyboard.netlify.app/)
