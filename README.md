@@ -8,20 +8,21 @@ If you're not inclined to make PRs you can tweet me at <a href="https://twitter.
 Table of Contents
 =================
 
-  * [Blogs](#blogs)
-  * [Papers](#papers)
-  * [Tools](#tools)
-  * [Videos](#videos)
-  * [APIs](#apis)
-  * [Projects](#projects)
+- [awesome-coding-by-voice](#awesome-coding-by-voice)
+- [Table of Contents](#table-of-contents)
+  - [Blogs](#blogs)
+  - [Papers](#papers)
+  - [Tools](#tools)
+  - [Videos](#videos)
+  - [APIs](#apis)
+  - [Projects](#projects)
 
 ## Blogs
 
   * [Hands-Free Coding](https://handsfreecoding.org/)
   * [Gaze-controlled keyboard](https://gaze-keyboard.netlify.app/)
   * [Hands-free coding - Demo](https://charliegerard.dev/project/hands-free-coding/)
-  * [AI voices that can act!
-](https://coqui.ai/)
+  * [AI voices that can act!](https://coqui.ai/)
 
 ## Papers
 
@@ -33,6 +34,7 @@ Table of Contents
   * [Programming by voice, VocalProgramming](https://www.researchgate.net/publication/221652444_Programming_by_voice_VocalProgramming)
   * [How To Write Code Using Your Voice](https://betterprogramming.pub/how-to-write-code-using-your-voice-f1bf42952075)
   * [Coding by voice with python](https://blog.simonireilly.com/posts/coding-by-voice-in-python)
+  * [Ultimate Guide to Speech to Text APIs in 2023](https://www.edenai.co/post/ultimate-guide-of-speech-to-text-apis)
 
 ## Tools
 
@@ -60,7 +62,10 @@ Table of Contents
   * [Google Speech-to-Text](https://cloud.google.com/speech-to-text)
   * [AssemblyAI](https://www.assemblyai.com)
   * [Amberscript](https://www.amberscript.com/en/products/api-custom-models/)
-
+  * [VoiceGain](https://www.voicegain.ai/)
+  * [IBM Watson](https://www.ibm.com/cloud/watson-speech-to-text)
+  * [Azure Speech to text](https://azure.microsoft.com/en-us/products/cognitive-services/speech-to-text/)
+  * 
 ## Projects
 
   * [Mozilla Common Voice - Mozilla Common Voice is an initiative to help teach machines how real people speak](https://commonvoice.mozilla.org/en)
