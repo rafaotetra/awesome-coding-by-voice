@@ -38,6 +38,7 @@ Table of Contents
 
 ## Tools
 
+  * [Numen](https://numenvoice.org)
   * [Serenade AI, Code with voice](https://serenade.ai/)
   * [Talon Voice - Powerful hands-free input](https://talonvoice.com/)
   * [VoiceAttack - Voice Recognition for your Games and Apps](https://voiceattack.com)
@@ -68,6 +69,7 @@ Table of Contents
   * 
 ## Projects
 
+  * [Vosk](https://alphacephei.com/vosk)
   * [Mozilla Common Voice - Mozilla Common Voice is an initiative to help teach machines how real people speak](https://commonvoice.mozilla.org/en)
   * [DeepSpeech: Open source embedded (offline, on-device) speech-to-text engine](https://github.com/mozilla/DeepSpeech)
   * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
