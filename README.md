@@ -20,9 +20,6 @@ Table of Contents
 ## Blogs
 
   * [Hands-Free Coding](https://handsfreecoding.org/)
-  * [Gaze-controlled keyboard](https://gaze-keyboard.netlify.app/)
-  * [Hands-free coding - Demo](https://charliegerard.dev/project/hands-free-coding/)
-  * [AI voices that can act!](https://coqui.ai/)
 
 ## Papers
 
@@ -40,8 +37,10 @@ Table of Contents
 
   * [Serenade AI, Code with voice](https://serenade.ai/)
   * [Talon Voice - Powerful hands-free input](https://talonvoice.com/)
+  * [Speech To Code](https://pedrooaugusto.github.io/speech-to-code/webapp/)
   * [VoiceAttack - Voice Recognition for your Games and Apps](https://voiceattack.com)
   * [Dragon NaturallySpeaking - Speech recognition software package](https://www.nuance.com/dragon.html)
+  * [Gaze-controlled keyboard](https://gaze-keyboard.netlify.app/)
 
 ## Videos
 
@@ -56,6 +55,8 @@ Table of Contents
   * [Serenade.ai - code using your voice (and AI)](https://youtu.be/Pc-EbY1fRWk)
   * [Software Engineer Codes by Voice | NowThis](https://youtu.be/f7neTXb6HjQ)
   * [What You Say is What You Get: Hands-Free Coding in 2021](https://youtu.be/LvBPSPJYQuw)
+  * [Hands-free coding - Demo](https://charliegerard.dev/project/hands-free-coding/)
+  * [Solving FizzBuzz With Speech to Code](https://youtu.be/I71ETEeqa5E?si=6nrNFxIRSG-Puaty)
 
 ## APIs
 
@@ -79,3 +80,4 @@ Table of Contents
   * [🐸STT - The deep learning toolkit for Speech-to-Text. Training and deploying STT models has never been so easy](https://github.com/coqui-ai/STT)
   * [Whisper - Robust Speech Recognition via Large-Scale Weak Supervision](https://github.com/openai/whisper)
   * [wav2letter++ - Facebook AI Research's Automatic Speech Recognition Toolkit](https://github.com/flashlight/wav2letter)
+  * [Speech to Code - Enables you to code using just your voice](https://github.com/pedrooaugusto/speech-to-code)
