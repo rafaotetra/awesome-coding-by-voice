@@ -35,6 +35,7 @@ Table of Contents
 
 ## Tools
 
+  * [Numen - Voice control for handsfree computing](https://numenvoice.org)
   * [Serenade AI, Code with voice](https://serenade.ai/)
   * [Talon Voice - Powerful hands-free input](https://talonvoice.com/)
   * [Speech To Code](https://pedrooaugusto.github.io/speech-to-code/webapp/)
@@ -66,9 +67,10 @@ Table of Contents
   * [VoiceGain](https://www.voicegain.ai/)
   * [IBM Watson](https://www.ibm.com/cloud/watson-speech-to-text)
   * [Azure Speech to text](https://azure.microsoft.com/en-us/products/cognitive-services/speech-to-text/)
-  * 
+
 ## Projects
 
+  * [Vosk - A speech recognition toolkit](https://alphacephei.com/vosk)
   * [Mozilla Common Voice - Mozilla Common Voice is an initiative to help teach machines how real people speak](https://commonvoice.mozilla.org/en)
   * [DeepSpeech: Open source embedded (offline, on-device) speech-to-text engine](https://github.com/mozilla/DeepSpeech)
   * [Kaldi Speech Recognition Toolkit](https://github.com/kaldi-asr/kaldi)
