@@ -41,6 +41,7 @@ Table of Contents
   * [VoiceAttack - Voice Recognition for your Games and Apps](https://voiceattack.com)
   * [Dragon NaturallySpeaking - Speech recognition software package](https://www.nuance.com/dragon.html)
   * [Gaze-controlled keyboard](https://gaze-keyboard.netlify.app/)
+  * [PATAPIM - Terminal IDE with built-in Whisper voice dictation for coding with AI agents](https://patapim.ai)
 
 ## Videos
 
