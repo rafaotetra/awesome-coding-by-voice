@@ -35,6 +35,7 @@ Table of Contents
 
 ## Tools
 
+  * [DictaFlow - Hold-to-talk dictation with custom vocabulary for developer prompts and documentation](https://dictaflow.io)
   * [Serenade AI, Code with voice](https://serenade.ai/)
   * [Talon Voice - Powerful hands-free input](https://talonvoice.com/)
   * [Speech To Code](https://pedrooaugusto.github.io/speech-to-code/webapp/)
